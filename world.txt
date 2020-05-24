@@ -1,3 +1,2 @@
 World file
 2nd line in world
-3rd line in world
